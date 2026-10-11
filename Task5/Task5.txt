@@ -1,0 +1,11 @@
+1. Convert rwxrwxrwx, rwxr-xr-x, rw-r--r--, rw-------, r-xr-xr-x to numeric values.
+
+a. rwxrwxrwx --777
+b.rwxr-xr-x --755
+c.rw-r--r-- --644
+d.rw------- --600
+e.r-xr-xr-x -- 555
+
+Explain why 777 is dangerous and why 600 is recommended.
+
+In Linux, 777 is dangerous because everyone can read, modify, and execute a file, while 600 restricts access to the owner only.

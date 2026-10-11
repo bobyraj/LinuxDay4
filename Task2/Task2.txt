@@ -1,0 +1,7 @@
+1.Which file stores Linux user information?
+--> cat /etc/passwd
+2.Explain ubuntu:x:1000:1000:Ubuntu User:/home/ubuntu:/bin/bash
+--> Username : Password : UID : GID : Comment : Home : Shell
+3.What is the purpose of the login shell field?
+-->The login shell determines which command-line environment starts when a user logs in. It does not, by itself,
+  determine the user's permissions or administrative access

@@ -1,0 +1,4 @@
+Explain ls -l vs ls -ld and directory execute permission.
+
+In Linux, ls -l and ls -ld are used to view permissions, but they behave differently when you check a directory.
+The most important concept is that execute permission (x) on a directory means you can access or traverse it, provided the other required permissions are satisfied.

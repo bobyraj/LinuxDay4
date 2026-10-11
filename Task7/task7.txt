@@ -1,0 +1,5 @@
+
+Explain execute permission and DevOps usage?
+
+In Linux execute permission (x) allows a user to run a file as a program or script. It is very important in DevOps because automation scripts
+ deployment scripts, and maintenance tasks often run on Linux servers.

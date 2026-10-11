@@ -1,0 +1,17 @@
+sysadmin@DESKTOP-ALPPMUA:~/linux4$ ls -l
+total 0
+-rw-r--r-- 1 sysadmin sysadmin 0 Oct 11 09:42 employee.txt
+sysadmin@DESKTOP-ALPPMUA:~/linux4$
+
+Owner permissions -- rw
+r-- read
+w--write
+
+Group permissions --r
+r--read
+
+Others permissions --r
+r-- read
+
+file type 
+start with '-' so it is textfile 

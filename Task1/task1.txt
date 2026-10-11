@@ -1,0 +1,8 @@
+1. What is your current username?
+--> sysadmin
+2.Difference between UID and GID?
+-->n Linux UID (User ID) identifies a user, while GID (Group ID) identifies a group of users
+3. List all groups your user belongs to
+-->sysadmin adm dialout cdrom floppy sudo audio dip video plugdev netdev
+4. Which group allows administrative access?
+-->In Linux the sudo group allows users to execute commands with administrative (root) privileges on Ubuntu

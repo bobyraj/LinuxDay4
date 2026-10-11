@@ -1,0 +1,6 @@
+1.Which file stores Linux group information?
+-->cat /etc/group
+2.What is the purpose of a group in Linux?
+-->The purpose of a group in Linux is to manage permissions for multiple users at the same time.
+3.Explain docker:x:999:ubuntu
+-->means the group is named docker, its GID is 999, and ubuntu is listed as a group member.
